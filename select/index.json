@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "プラトニック・プラネット(Concert Tour 2023 Final ～Juicetory～)",
+  "base_artist": "Juice=Juice",
+  "createdAt": "2026-03-05T11:47:15.087716Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プラトニック・プラネット(Ultimate Juice Ver.)",
+      "artist": "Juice=Juice",
+      "has_synced": false,
+      "path": "select/pl_01_プラトニック・プラネット(Ultimate_Juice_Ver.)_Juice=Juice.txt"
+    }
+  ]
+}
